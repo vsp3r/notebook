@@ -1,0 +1,2 @@
+---
+[[Atomic Note Template]]
