@@ -1,0 +1,2 @@
+[[Quant Assumptions]]
+[[Trend Following]]

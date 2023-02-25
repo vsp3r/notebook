@@ -8,12 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31e05f8b0243ada5",
+            "id": "f388e01afcb824d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Atomic Note Template.md",
+                "file": "Buffering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b776c947f9a24a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Momentum Signals.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3b1c26844b36f2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Computer Science/100 Computer Science.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fb4ecfd0c33f3a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Computer Science/110 Programming/110 Programming.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7e4a9e8dfb61e68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Computer Science/110 Programming/Python Important Functions.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0b17af501401e4b",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Atomic Note Template.md",
+                "file": "Buffering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Atomic Note Template.md",
+                "file": "Buffering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Atomic Note Template.md"
+                "file": "Buffering.md"
               }
             }
           }
@@ -146,9 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31e05f8b0243ada5",
+  "active": "f388e01afcb824d7",
   "lastOpenFiles": [
-    "Templates/Templates.md",
-    "Templates/Atomic Note Template.md"
+    "Trend Following.md",
+    "Momentum Signals.md",
+    "Portfolio Management.md",
+    "000 Finance/010 Trading/011 Quant Trading/011 Quant Trading.md",
+    "100 Computer Science/110 Programming/Python Important Functions.md",
+    "100 Computer Science/110 Programming/110 Programming.md",
+    "100 Computer Science/110 Programming/Python Programming.md",
+    "100 Computer Science/100 Computer Science.md",
+    "Quant Assumptions.md",
+    "README.md"
   ]
 }
